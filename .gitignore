@@ -1,0 +1,19 @@
+# Participant-level research data
+*.xlsx
+
+# Participant-level derived datasets
+agent_2_locked_raw_fields.csv
+agent_2_locked_scores.csv
+
+# Dissertation and source documents
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
